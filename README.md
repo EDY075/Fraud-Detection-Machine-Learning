@@ -6,6 +6,10 @@ Estudo de detecção de fraudes em transações financeiras com foco em desbalan
 
 ![Python](https://img.shields.io/badge/Python-study-3776AB?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-planned-150458?style=flat-square&logo=pandas) ![scikit-learn](https://img.shields.io/badge/scikit--learn-planned-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![Status](https://img.shields.io/badge/Status-Documentation-6B7280?style=flat-square)
 
+## Apresentação em vídeo
+
+https://github.com/user-attachments/assets/ae4921f6-7e47-4b05-b0d2-447f776c3155
+
 ## Objetivo
 
 O cenário documentado considera uma classe de fraude rara, próxima de 0,17% das transações. O objetivo é estudar como detectar o maior número possível de fraudes sem aceitar uma quantidade impraticável de falsos positivos.
